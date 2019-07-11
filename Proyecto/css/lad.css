@@ -49,3 +49,29 @@ p{
 	color: black;
 	font-size: 50px
 }
+
+#tab{
+
+   float: center; 
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #000 url("img/tabla.jfif") bottom left repeat-x;
+   color: #fff;
+   height: 80px;
+     width: 80%;
+   border: 1px solid #000;
+}
+td, th {
+   background: #fff;
+   color: #000;
+    width: 20%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+caption {
+   padding: 0.3em;
+}
