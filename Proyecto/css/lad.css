@@ -1,0 +1,51 @@
+.carousel-inner img {
+    width: 1300px;
+    height: 400px;
+  }
+
+#video{
+	background-color: black;
+	margin: auto;
+	width: 1285px;
+	height: 600px;
+}
+
+#img1{
+	margin-top: 10px;
+	width: 70px;
+	height: 70px;
+}
+
+#img2{
+	margin-top: 10px;
+	width: 70px;
+	height: 70px;
+}
+ #img3{
+ 	margin-top: 10px;
+ 	width: 70px;
+	height: 70px;
+ }
+
+#img4{
+	margin-top: 10px;
+	width: 70px;
+	height: 70px;
+}
+
+.fdizquierda {
+
+	float: left; 
+	width: 8%;
+}
+
+.fdcentro {
+
+	margin: auto; 
+	width: 92%;
+}
+
+p{
+	color: black;
+	font-size: 50px
+}
